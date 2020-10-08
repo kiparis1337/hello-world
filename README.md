@@ -1,2 +1,2 @@
 # hello-world
-just another repo
+brew install ghbrew install ghbrew install ghbrew install ghbrew install ghbrew install ghbrew install gh
